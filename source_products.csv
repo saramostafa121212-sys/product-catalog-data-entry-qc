@@ -1,0 +1,16 @@
+product_id,barcode,name,brand,category,quantity,country
+P001,0012345678905,Sample Oat Biscuits,Demo Brand A,Snacks,250 g,Egypt
+P002,0098765432104,Sample Orange Juice,Demo Brand B,Beverages,1 L,Egypt
+P003,0045678901236,Sample Tomato Paste,Demo Brand C,Canned Food,400 g,Egypt
+P004,0023456789012,Sample Plain Yogurt,Demo Brand D,Dairy,500 g,Egypt
+P005,0067890123457,Sample Brown Rice,Demo Brand E,Grains,1 kg,Egypt
+P006,0034567890128,Sample Olive Oil,Demo Brand F,Oils,750 ml,Spain
+P007,0078901234569,Sample Black Tea,Demo Brand G,Beverages,100 g,India
+P008,0056789012340,Sample Wheat Pasta,Demo Brand H,Pasta,500 g,Italy
+P009,0089012345671,Sample Fava Beans,Demo Brand C,Canned Food,400 g,Egypt
+P010,0001234567892,Sample Chocolate Bar,Demo Brand I,Snacks,100 g,Belgium
+P011,0090123456783,Sample Mineral Water,Demo Brand J,Beverages,1.5 L,Egypt
+P012,0012309876540,Sample Cheddar Cheese,Demo Brand D,Dairy,200 g,Ireland
+P013,0045601234567,Sample Lentils,Demo Brand E,Grains,1 kg,Egypt
+P014,0071234509876,Sample Honey,Demo Brand K,Spreads,350 g,Egypt
+P015,0023450987612,Sample Corn Flakes,Demo Brand L,Cereals,375 g,Egypt
